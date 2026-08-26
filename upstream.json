@@ -1,0 +1,16 @@
+{
+  "upstream": "https",
+  "module_id": "birefnet",
+  "module_name": "//github.com/ZhengPeng7/BiRefNet:BiRefNet 图像抠图",
+  "module_version": "0.1.0",
+  "adapted_from": "https://github.com/PegionFish/EntryPoint",
+  "entrypoint_commit": "d74d40f1",
+  "synced_at": "2026-08-26",
+  "models": [
+    "birefnet-general",
+    "birefnet-portrait"
+  ],
+  "module_ids": [
+    "birefnet"
+  ]
+}
