@@ -1,10 +1,10 @@
-# //github.com/ZhengPeng7/BiRefNet:BiRefNet 图像抠图
+# BiRefNet 图像抠图
 
 本仓库是 [EntryPoint](https://github.com/PegionFish/EntryPoint) 对上游
-[//github.com/ZhengPeng7/BiRefNet:BiRefNet 图像抠图](https) 的适配层镜像，反向同步自主仓库。
+[BiRefNet 图像抠图](https://github.com/ZhengPeng7/BiRefNet) 的适配层镜像，反向同步自主仓库。
 
 - 同步自: https://github.com/PegionFish/EntryPoint（source commit: `d74d40f1`，2026-08-26）
-- 上游: https
+- 上游: https://github.com/ZhengPeng7/BiRefNet
 - 主仓库对应目录: modules/birefnet
 - 同步工具: scripts/sync-model-repos.sh
 - 用法文档见仓库根 README.md；模块接口见主仓库 docs/MODULE_SPEC.md
